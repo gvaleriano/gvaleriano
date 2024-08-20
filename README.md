@@ -43,16 +43,16 @@
   </a>
 </div>
 <p dir="auto">
-  <a href="https://www.linkedin.com/in/ghvaleriano/" rel="nofollow"  style="text-decoration:none !important;">
-    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%; max-height: 100%">
+  <a href="https://www.linkedin.com/in/ghvaleriano/" rel="nofollow">
+    <img src="https://camo.githubusercontent.com/591c02e8ff595d43e0b35b1b29aed639a7154b959cd8f8c854b9e176d885b094/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;">
   </a> 
   <a href="https://github.com/gvaleriano">
     <img src="https://camo.githubusercontent.com/e8608a6316b9d88ea49559b15837c90b1c14fb172ca6743b50150cd54f208e26/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" data-canonical-src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&amp;logo=github&amp;logoColor=white" style="max-width: 100%;">
   </a> 
-  <a href="mailto:guilherme.hvaleriano@gmail.com"  style="text-decoration:none !important;">
+  <a href="mailto:guilherme.hvaleriano@gmail.com">
     <img src="https://camo.githubusercontent.com/36abca4bcab1c9e2880505b22da85c7a7ab901dc58d159f31a1684685ec9af71/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d3333333333333f7374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d726564" alt="Gmail" data-canonical-src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&amp;logo=gmail&amp;logoColor=red" style="max-width: 100%;">
   </a> 
-  <a href="https://portfolio-main-topaz-sigma.vercel.app/" rel="nofollow" style="text-decoration:none !important;">
+  <a href="https://portfolio-main-topaz-sigma.vercel.app/" rel="nofollow">
     <img src="https://camo.githubusercontent.com/3c99fd56670d36b7740c6cc9414b147ac2970aa1e7e43fbcf9df0a12ed5e44e7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f7274666f6c696f2d4646353732323f7374796c653d666f722d7468652d6261646765266c6f676f3d746f646f697374266c6f676f436f6c6f723d7768697465" alt="Portfolio" data-canonical-src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&amp;logo=todoist&amp;logoColor=white" style="max-width: 100%;"></a>
 </p>
 
